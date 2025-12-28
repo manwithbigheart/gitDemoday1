@@ -1,1 +1,2 @@
 Git Hands-on Practice Project
+This file explains git demo tasks
